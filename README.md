@@ -21,6 +21,7 @@
     <a href="#"><img alt="ShotCut" src="https://img.shields.io/badge/ShortCut-184445.svg?logo=shotcut&logoColor=white"></a>
    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
   <a href="#"><img alt="Office-365" src="https://img.shields.io/badge/Microsoft Office-EE82EE.svg?logo=microsoft-office&logoColor=white"></a>
+  <a href="#"><img alt="Cloud-Google" src="https://img.shields.io/badge/Google cloud-Ffffff.svg?logo=google&logoColor=black"></a>
  
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a> 
