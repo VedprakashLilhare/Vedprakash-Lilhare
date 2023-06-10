@@ -5,7 +5,7 @@
  🔗 Connect with me:
 <!-- style=flat-square& -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vedprakash%20Lilhare-blue?logo=Linkedin&logoColor=white&link=)]([linkedin.com/in/vedprakash-lilhare-/](https://www.linkedin.com/in/vedprakash-lilhare?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuinBWRhaSFW3bkQnbEuRYA%3D%3D-/))
+[![Linkedin Badge](https://img.shields.io/badge/-Vedprakash%20Lilhare-blue?logo=Linkedin&logoColor=white&link=)]([linkedin.com/in/vedprakash-lilhare/](https://www.linkedin.com/in/vedprakash-lilhare?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuinBWRhaSFW3bkQnbEuRYA%3D%3D-/))
 
 ### ⚡ Languages:
 [![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
