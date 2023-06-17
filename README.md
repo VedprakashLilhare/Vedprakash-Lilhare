@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vedprakash Lilhare , CSE(IoT & Cybersecurity) student.
 - 👀 I’m interested in Python,C,SQL,Java.
-- 🌱 I’m currently learning Malware Analysis,Ethical Hacking and Bug bounty.
+- 🌱 I’m currently learning Malware Analysis,Ethical Hacking, Bug bounty and software engineering.
 <br/>
  🔗 Connect with me:
 <!-- style=flat-square& -->
